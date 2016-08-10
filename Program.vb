@@ -1,4 +1,4 @@
-﻿Module Module1
+﻿Module Program
 
     'Program to read in details of Atheles and distance of their throws
     'The Program should select the furthest throw and declare that athelete as the winner
